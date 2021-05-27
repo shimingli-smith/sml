@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Markdown语法</title>
-    <url>/sml/2021/05/27/Markdown%E8%AF%AD%E6%B3%95/</url>
-    <content><![CDATA[<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">Markdown 目录：</span><br><span class="line">[TOC]</span><br><span class="line"></span><br><span class="line">Markdown 标题：</span><br><span class="line"><span class="section"># 这是 H1</span></span><br><span class="line"><span class="section">## 这是 H2</span></span><br><span class="line"><span class="section">### 这是 H3</span></span><br><span class="line"></span><br><span class="line">Markdown 列表：</span><br><span class="line"><span class="bullet">-</span> 列表项目</span><br><span class="line"><span class="bullet">1.</span> 列表项目</span><br><span class="line"></span><br><span class="line"><span class="emphasis">*斜体*</span>或<span class="emphasis">_斜体_</span></span><br><span class="line"><span class="strong">**粗体**</span></span><br><span class="line"><span class="strong">**<span class="emphasis">*加粗斜体<span class="strong">**<span class="emphasis">*</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">~~删除线~~</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong"></span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">Markdown 插入链接：</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">[<span class="string">链接文字</span>](<span class="link">链接网址 &quot;标题&quot;</span>)</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong"></span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">Markdown 插入图片：</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">![<span class="string">alt text</span>](<span class="link">/path/to/img.jpg &quot;Title&quot;</span>)</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong"></span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">Markdown 插入代码块：</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">    ```python</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">    #!/usr/bin/python3</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">    print(&quot;Hello, World!&quot;);</span></span></span></span></span><br></pre></td></tr></table></figure>
-
-<p>Markdown 引用：</p>
-<blockquote>
-<p>引用内容</p>
-</blockquote>
-<h2 id="Markdown-分割线："><a href="#Markdown-分割线：" class="headerlink" title="Markdown 分割线："></a>Markdown 分割线：</h2><p>Markdown 换行：<br><br></p>
-<p>Markdown 段首缩进：<br>&ensp; or &#8194; 表示一个半角的空格<br>&emsp; or &#8195;  表示一个全角的空格<br>&emsp;&emsp; 两个全角的空格（用的比较多）<br>&nbsp; or &#160; 不断行的空白格</p>
-<p>使用 Markdown[^1]可以效率的书写文档, 直接转换成 HTML[^2], 你可以使用 Typora[^T] 编辑器进行书写。<br>[^1]:Markdown是一种纯文本标记语言<br>[^2]:HyperText Markup Language 超文本标记语言<br>[^T]:NEW WAY TO READ &amp; WRITE MARKDOWN.<br>```</p>
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>Markdown</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>ios顶级人物</title>
     <url>/sml/2021/05/25/ios%E9%A1%B6%E7%BA%A7%E4%BA%BA%E7%89%A9/</url>
     <content><![CDATA[<hr>
@@ -31,6 +11,18 @@
       </categories>
       <tags>
         <tag>ios</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Markdown语法</title>
+    <url>/sml/2021/05/27/Markdown%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">Markdown 目录：</span><br><span class="line">[TOC]</span><br><span class="line"></span><br><span class="line">Markdown 标题：</span><br><span class="line"><span class="section"># 这是 H1</span></span><br><span class="line"><span class="section">## 这是 H2</span></span><br><span class="line"><span class="section">### 这是 H3</span></span><br><span class="line"></span><br><span class="line">Markdown 列表：</span><br><span class="line"><span class="bullet">-</span> 列表项目</span><br><span class="line"><span class="bullet">1.</span> 列表项目</span><br><span class="line"></span><br><span class="line"><span class="emphasis">*斜体*</span>或<span class="emphasis">_斜体_</span></span><br><span class="line"><span class="strong">**粗体**</span></span><br><span class="line"><span class="strong">**<span class="emphasis">*加粗斜体<span class="strong">**<span class="emphasis">*</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">~~删除线~~</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong"></span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">Markdown 插入链接：</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">[<span class="string">链接文字</span>](<span class="link">链接网址 &quot;标题&quot;</span>)</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong"></span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">Markdown 插入图片：</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">![<span class="string">alt text</span>](<span class="link">/path/to/img.jpg &quot;Title&quot;</span>)</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong"></span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">Markdown 插入代码块：</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">    ```python</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">    #!/usr/bin/python3</span></span></span></span></span><br><span class="line"><span class="emphasis"><span class="strong"><span class="emphasis"><span class="strong">    print(&quot;Hello, World!&quot;);</span></span></span></span></span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Markdown 引用：</span><br><span class="line">&gt; 引用内容</span><br><span class="line"></span><br><span class="line">Markdown 分割线：</span><br><span class="line">---</span><br><span class="line"></span><br><span class="line">Markdown 换行：</span><br><span class="line">&lt;br&gt;</span><br><span class="line"></span><br><span class="line">Markdown 段首缩进：</span><br><span class="line">&amp;ensp; or &amp;#8194; 表示一个半角的空格</span><br><span class="line">&amp;emsp; or &amp;#8195;  表示一个全角的空格</span><br><span class="line">&amp;emsp;&amp;emsp; 两个全角的空格（用的比较多）</span><br><span class="line">&amp;nbsp; or &amp;#160; 不断行的空白格</span><br><span class="line"></span><br><span class="line">使用 Markdown[^1]可以效率的书写文档, 直接转换成 HTML[^2], 你可以使用 Typora[^T] 编辑器进行书写。</span><br><span class="line">[^1]:Markdown是一种纯文本标记语言</span><br><span class="line">[^2]:HyperText Markup Language 超文本标记语言</span><br><span class="line">[^T]:NEW WAY TO READ &amp; WRITE MARKDOWN.</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
       </tags>
   </entry>
   <entry>
