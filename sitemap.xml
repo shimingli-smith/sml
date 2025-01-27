@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://shimingli-smith.github.io/sml/2025/01/29/marry%20me/</loc>
+    
+    <lastmod>2025-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://shimingli-smith.github.io/sml/2025/01/01/new_year/</loc>
     
     <lastmod>2025-01-01</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>https://shimingli-smith.github.io/sml</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,7 +102,7 @@
   
   <url>
     <loc>https://shimingli-smith.github.io/sml/tags/%E9%A6%A8%E9%9B%AF/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -102,7 +111,7 @@
   
   <url>
     <loc>https://shimingli-smith.github.io/sml/categories/%E7%A7%81%E5%AF%86/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
